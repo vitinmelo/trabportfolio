@@ -1,0 +1,70 @@
+.cabeca{
+    background-color: black;
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+#logov{
+    width: 400px;
+    margin-top: -30px;
+    margin-left: -50px;
+}
+.serv{
+position: fixed;
+    color: white;
+    margin-left: 70%;
+    margin-top: 65px;
+    font-size: larger;
+}
+.serv a{
+    text-decoration: none;
+    color:white;
+
+}
+
+.port{
+    color: white;
+    margin-left: 39px;
+    margin-top: 87px;
+  
+}
+.port a{
+    text-decoration: none;
+    color:white;
+
+}
+ .txt{
+     text-align: left;
+     margin-top: 100px;
+    
+ }
+
+.grid{ display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+ }
+ 
+ #nome{
+     list-style: none;
+     font-size: x-large;
+ }
+ #text{
+     list-style: none;
+ }
+ footer {
+     background-color: rgba(217, 217, 217, 1);
+     height:200px;
+     margin-top: 280px;
+     width: 100%;
+ }
+ .grid2{
+     display: grid;
+     grid-template-columns: 2fr 2fr 2fr;
+ } 
+
+ .imag {display: flex;
+justify-content: space-evenly;
+margin-top: 70px;}
+
+.foto{
+    margin-left: 150px;
+}
